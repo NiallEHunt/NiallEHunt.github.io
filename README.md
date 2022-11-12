@@ -3,4 +3,4 @@
 Simple personal website for Niall Hunt.
 
 ## TODO
-- [] update font to Atkinson Hyperlegible
+- [ ] update font to Atkinson Hyperlegible

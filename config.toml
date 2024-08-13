@@ -1,11 +1,22 @@
 # The URL the site will be built for
 base_url = "https://niallehunt.com"
 
+title = "Niall Hunt"
+
+description = "Some thoughts and some bits about me"
+
+author = "Niall Hunt"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
+
+minify_html = true
+
+theme = "apollo"
+taxonomies = [{ name = "tags" }]
 
 [markdown]
 # Whether to do syntax highlighting
@@ -14,3 +25,15 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+theme = "toggle"
+socials = [
+  { name = "github", url = "https://github.com/NiallEHunt", icon = "github" },
+  { name = "linkedin", url = "https://linkedin.com/in/niallehunt", icon = "linkedin"},
+]
+
+menu = [
+  { name = "links", url = "/links", weight = 1 },
+  { name = "blog", url = "/blog", weight = 2 },
+  { name = "resumé", url = "/projects", weight = 3 },
+]
+

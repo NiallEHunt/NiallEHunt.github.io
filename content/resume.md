@@ -8,7 +8,7 @@ title = "resumé"
 *January 2023 – Present*
 
 - Full-stack engineer on the Restaurant Reporting and Analytics team, building a scalable and reliable reporting framework that provides insights into restaurant performance.
-- Planned and built a real-time performance metrics service powering the Toast Now mobile app and web homepage, handling millions of daily requests with a P95 latency of 150ms and over 99.99% availability.
+- Planned and built a real-time performance metrics service powering the Toast Now mobile app and web homepage, handling millions of daily requests with a P95 latency of ~300ms and over 99.99% availability.
 - Led the load testing efforts that ensured a smooth release at the Toast Spark event, with the service effectively managing the post-launch traffic surge and continued growth.
 - Led the completion and delivery of the labor cost breakdown report, collaborating closely with product managers, designers, and engineers to plan and prioritize work, resulting in a faster time-to-market.
 - Currently on a rotation with Toast.org, working on impactful features like the Food Waste Tracker, where I’m enhancing the offering with a generative AI assistant to help restaurants reduce waste.

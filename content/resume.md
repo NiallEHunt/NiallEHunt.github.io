@@ -2,7 +2,7 @@
 title = "resumé"
 +++
 
-# Work
+# work
 
 ## Software Engineer II, Toast Inc.  
 *January 2023 – Present*

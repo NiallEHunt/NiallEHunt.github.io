@@ -3,7 +3,7 @@ title= "hello"
 template = "homepage.html"
 +++
 
-I'm Niall, a software engineer from Dublin. Welcome to my website! Here, you can learn a bit more about me and what catches my interest. 
+I'm Niall, a software engineer from Dublin. Welcome to my website! Here, you can learn a bit more about me and whatever currently catches my interest. 
 
 I share articles and blogs that I find interesting in the [links](/links) section. These are mostly about software engineering and technology, but you might also find some posts about my other random interests. 
 

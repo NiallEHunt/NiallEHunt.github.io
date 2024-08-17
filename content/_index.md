@@ -26,3 +26,4 @@ I have a Master's degree in Computer Science from Trinity College Dublin. My dis
 # p.s.
 
 This website was created using [Zola](https://www.getzola.org/) a static site engine and I used the [Apollo](https://github.com/not-matthias/apollo) theme.
+

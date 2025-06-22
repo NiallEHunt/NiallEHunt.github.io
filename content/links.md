@@ -2,8 +2,14 @@
 title = "links"
 +++
 
-Below is a list of articles, blogs, talks or other media that I thought was thought provoking or interesting. I will try to keep this updated with new links as I find them. If you have any interesting articles or blogs in similar veins feel free to send them my way via [email](mailto:contact@niallehunt.com)
+Below is a list of articles, blogs, talks or other media that I thought was thought provoking or interesting. I don't necessarily agree with all of the opinions shared here, but they made me think. I will try to keep this updated with new links as I find them. If you have any interesting articles or blogs in similar veins feel free to send them my way via [email](mailto:contact@niallehunt.com)
 
+- [Ladybird Browser](https://ladybird.org/)
+- [Database-Oriented Design: Why We Built Our MMORPG Inside a Database](https://www.youtube.com/watch?v=yctM7oTLurA)
+- [I Think I'm Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
+- [Writing Toy Software Is A Joy](https://blog.jsbarretto.com/post/software-is-joy)
+- [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
+- [Why Can't We Make Simple Software? - Peter van Hardenberg](https://www.youtube.com/watch?v=czzAVuVz7u4)
 - [The Grug Brained Developer](https://grugbrain.dev/)
 - [Mobbing and exploratory programming](https://hgrsd.nl/blog/mobbing-exploratory-programming/)
 - [Local-first software](https://www.inkandswitch.com/local-first/)
